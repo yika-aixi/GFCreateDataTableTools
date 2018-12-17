@@ -1,0 +1,10 @@
+{
+    "name": "GFCreateDataTableTools.Editor.Runtime.Test",
+    "references": [
+        "GFCreateDataTableTools.Runtime"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}

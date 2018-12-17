@@ -1,0 +1,13 @@
+{
+    "name": "GFCreateDataTableTools.Editor",
+    "references": [
+        "UnityGameFramework.Editor",
+        "GFCreateDataTableTools.Runtime"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
